@@ -3,6 +3,8 @@ from utils import encode_point_uncompressed
 from ecdsa import sign, verify
 from params import curve
 
+# Demo
+
 # 1. Generate key pair
 priv_key = generate_private_key()
 pub_key_point = derive_public_key(priv_key)
