@@ -12,7 +12,7 @@ Includes full curve math, key generation, signing, and verification.
 ## Install
 ```bash
 git clone https://github.com/0xMouiz/python-secp256k1.git
-cd secp256k1-ecdsa-poc
+cd python-secp256k1
 pip install pycryptodome
 ```
 
