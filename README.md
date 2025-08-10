@@ -1,4 +1,4 @@
-# secp256k1-ecdsa-poc
+# python-secp256k1
 
 A minimal Python implementation of the secp256k1 elliptic curve and ECDSA digital signatures.  
 Includes full curve math, key generation, signing, and verification.
