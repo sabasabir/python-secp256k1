@@ -9,6 +9,10 @@ Includes full curve math, key generation, signing, and verification.
 - Message signing with ECDSA (Keccak-256)
 - Signature verification
 
+## Disclaimer
+This project is a simple proof of concept to help understand how secp256k1 and ECDSA work.  
+For any serious use, rely on optimized and well-tested cryptography libraries.
+
 ## Install
 ```bash
 git clone https://github.com/0xMouiz/python-secp256k1.git
